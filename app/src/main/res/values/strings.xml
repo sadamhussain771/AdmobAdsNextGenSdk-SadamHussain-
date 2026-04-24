@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">AdmobNextGenSdk</string>
+
+    <!-- ===================== AdMob Ad Unit IDs ===================== -->
+    <!-- Replace with your real AdMob IDs before release             -->
+    <!-- App Open -->
+    <string name="admob_app_open_id">ca-app-pub-3940256099942544/9257395921</string>
+    <!-- App ID for MobileAds.initialize -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <!-- Banner -->
+    <string name="admob_banner_splash_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_entrance_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_on_boarding_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_dashboard_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_feature_one_a_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_feature_one_b_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_feature_two_a_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_banner_feature_two_b_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!-- Interstitial -->
+    <string name="admob_inter_entrance_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_inter_on_boarding_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_inter_dashboard_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="inter_save_admob_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="inter_videos_admob_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="inter_bookmark_admob_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="inter_dpmaker_admob_id">ca-app-pub-3940256099942544/1033173712</string>
+    <!-- Native -->
+    <string name="admob_native_language_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_language2_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_on_boarding_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_on_boarding2_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_on_boarding3_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_get_started_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_home_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_feature_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_exit_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="admob_native_full_screen_id">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="native_full_screen2">ca-app-pub-3940256099942544/2247696110</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_1_title">Discover Amazing Features</string>
+    <string name="onboarding_1_desc">Explore a world of possibilities with our powerful tools designed to make your experience seamless and enjoyable.</string>
+    <string name="onboarding_2_title">Stay Connected Always</string>
+    <string name="onboarding_2_desc">Keep in touch with everything that matters. Real-time updates and notifications keep you in the loop at all times.</string>
+    <string name="onboarding_3_title">Get Started Today</string>
+    <string name="onboarding_3_desc">Join thousands of users who are already enjoying the benefits. Your journey to a better experience starts now.</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+    <string name="continue_text">Continue</string>
+
+    <!-- Home -->
+    <string name="home_title">Welcome Home</string>
+    <string name="home_subtitle">Choose a section to explore</string>
+    <string name="open_home_1">Open Home Fragment 1</string>
+    <string name="open_home_2">Open Home Fragment 2</string>
+    <string name="open_home_3">Open Home Fragment 3</string>
+
+    <!-- Home Fragments -->
+    <string name="home_fragment_1_title">Home Fragment 1</string>
+    <string name="home_fragment_1_content">This is the first home fragment. You can add your custom content, lists, or any UI components here.</string>
+    <string name="home_fragment_2_title">Home Fragment 2</string>
+    <string name="home_fragment_2_content">This is the second home fragment. Customize this screen with your own data, charts, or interactive elements.</string>
+    <string name="home_fragment_3_title">Home Fragment 3</string>
+    <string name="home_fragment_3_content">This is the third home fragment. Use this space for settings, profile information, or any other content.</string>
+    <string name="go_back">Go Back</string>
+</resources>
